@@ -58,7 +58,7 @@
 .pinkcar{
     width: 400;
     left: 300;
-    bottom: 60px;
+    bottom: 40px;
     animation-delay: 0.3;
     animation: moveright 10s linear infinite alternate;
     position: absolute;
@@ -86,7 +86,7 @@
 .yellcar{
     width: 400px;
     height: 300;
-    bottom: 60px;
+    bottom: 100px;
     animation-delay: 0.3;
     animation: moveleft 10s linear infinite alternate;
     position: absolute;
